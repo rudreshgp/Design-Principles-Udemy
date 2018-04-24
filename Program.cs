@@ -9,7 +9,8 @@ namespace DesignPatterns
         {
             // Console.WriteLine("Hello World!");
             // OpenClosurePrinciple.Test();
-            DependencyInversion.Test();
+            // DependencyInversion.Test();
+            BuilderPattern.Builder.Test();
             Console.WriteLine("Press any key to continue");
             Console.ReadLine();
 
